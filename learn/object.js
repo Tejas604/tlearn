@@ -16,7 +16,7 @@
 //     email : "test123@gmail.com",
 //     location : "mumbai",
 //     islogin : false,
-//     lastlogin : ["mon", "tues", "wed"]
+//     lastlogin : ["mon", "tues", "wed"]  // this is 
 
 //  } // it always exist in key value pair so we can acess by giving the key
 
