@@ -61,5 +61,6 @@
   //  let twoadd = (num1, num2) => num1 + num2 ////////////// this is called implicit return wheret
   // console.log( twoadd(3,4))
 
-  let twoadd = (num1, num2) => ( num1 + num2) ////////////// if wrap the function inside "{}" the you have to use the return keyword  else if you use "()" then  no need mostly it is used in reac
+  let twoadd = (num1, num2) => ( num1 + num2) ////////////// if wrap the function inside "{}" the you have to use the return keyword  
+  // else if you use "()" then  no need mostly it is used in react 
   console.log( twoadd(3,4))
