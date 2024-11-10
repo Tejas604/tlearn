@@ -18,8 +18,9 @@
 // () ();
  // first bracket we write the function second is one as if we are calling  that method or function  
 /// here the semi colon is important in iffe due to sometime iife does not know when to end it so the semi colon show that
- 
+ /// this happen when you are trying to write two iiffee
 
 // why do we need the iffeee or why do we use it
  // we use iffe just  it is  a function that get invoke immediately but this is not sufficent for interview
  // we could say that it is fuction that use some time due to the gloabl scope variable pollution just to reduce that pollution we use iffe
+
