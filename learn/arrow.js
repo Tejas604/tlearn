@@ -61,6 +61,14 @@
   //  let twoadd = (num1, num2) => num1 + num2 ////////////// this is called implicit return wheret
   // console.log( twoadd(3,4))
 
-  let twoadd = (num1, num2) => ( num1 + num2) ////////////// if wrap the function inside "{}" the you have to use the return keyword  
-  // else if you use "()" then  no need mostly it is used in react 
-  console.log( twoadd(3,4))
+  // let twoadd = (num1, num2) => ( num1 + num2) ////////////// if wrap the function inside "{}" the you have to use the return keyword  
+  // // else if you use "()" then  no need mostly it is used in react 
+  // console.log( twoadd(3,4))
+
+
+// to return the object in the arrow function we have to wrap it up in curly brac else it will give undefined
+
+ let  twerp = (num1,num2) =>  ( { username : "tejas"})  // this method
+ console.log(twerp(3,4))
+
+
