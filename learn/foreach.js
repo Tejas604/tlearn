@@ -90,5 +90,5 @@ var obj = {
 // }
 // abcd();
 
-
+// await ask code  to stop codefprfew second
 // we have to right so that the daṭa is waiting ready to be execu6ted 
